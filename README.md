@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **adeivan/adeivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://hey.adeivan.com/contact
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I Hate Code
--->
+
 
 
 
